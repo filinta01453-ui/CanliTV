@@ -1,0 +1,4 @@
+TRT1|Haber|https://upload.wikimedia.org/wikipedia/commons/0/0c/TRT_1_logo.png|https://tv-trt1.medya.trt.com.tr/master.m3u8
+ATV|Ulusal|https://upload.wikimedia.org/wikipedia/commons/3/3f/Atv_logo.png|https://example.com/atv.m3u8
+KANALD|Ulusal|https://upload.wikimedia.org/wikipedia/commons/2/20/Kanal_D_logo.png|https://example.com/kanald.m3u8
+SHOWTV|Ulusal|https://upload.wikimedia.org/wikipedia/commons/4/49/Show_TV_logo.png|https://example.com/showtv.m3u8
